@@ -1,5 +1,9 @@
 index.txt文件
 9999999999999999999999999999
+<<<<<<< HEAD
 div分支
 div1
 ddddddddddddd
+=======
+新增
+>>>>>>> dev1
